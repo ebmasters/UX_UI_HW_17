@@ -1,0 +1,84 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo{
+    width: 1%;
+    padding: 1%;
+}
+
+.companyNameMargin{
+  padding-right: 2%;  
+}
+
+nav{
+    width: 77%;
+    }
+
+ul{
+width: 40%;
+margin-left: auto;
+}
+
+li {
+    padding-left: 75px;
+}
+
+.logo{
+    text-align: left;
+}
+
+.navigation{
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+
+.heroImg{
+    
+    display: inline-block;
+    height: 800px;
+    padding: 25px;
+    color: white;
+    background-color: black;
+}
+
+.blaineHero{
+    float: right;
+    height:auto;
+    max-height: 500px;
+    width: 300px
+}
+
+.content{
+    width: auto;
+    margin: 0 auto;
+}
+
+.myStory{
+    width: 65%;
+}
+
+
+footer{
+    background-color: black;
+    padding: 1px;
+    color: white;
+}
+
+footer ul{
+    display:inline-block;
+    vertical-align: top;
+}
+footer li{
+    
+    padding: 5px;
+}
+
+
+
+
