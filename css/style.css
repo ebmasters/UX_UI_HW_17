@@ -1,11 +1,18 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .inline-block {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: center;
 }
 
 .logo{
     width: 1%;
     padding: 1%;
+    vertical-align: middle;
 }
 
 .companyNameMargin{
@@ -41,7 +48,7 @@ li {
 .heroImg{
     
     display: inline-block;
-    height: 800px;
+    height: 765px;
     padding: 25px;
     color: white;
     background-color: black;
@@ -50,8 +57,7 @@ li {
 .blaineHero{
     float: right;
     height:auto;
-    max-height: 500px;
-    width: 300px
+    
 }
 
 .content{
@@ -63,6 +69,10 @@ li {
     width: 65%;
 }
 
+.resumeButton{
+    background-color: #6B7FD3;
+    
+}
 
 footer{
     background-color: black;
