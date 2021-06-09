@@ -67,10 +67,12 @@ li {
 
 .myStory{
     width: 65%;
+    font-size: 24px;
 }
 
 .resumeButton{
     background-color: #6B7FD3;
+    font-size: 24px;
     
 }
 
